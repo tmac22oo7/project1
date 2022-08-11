@@ -5,6 +5,3 @@ this is line 3
 this is line 5
 
 this is line 7
-
-this is line 9
-this is line 10
